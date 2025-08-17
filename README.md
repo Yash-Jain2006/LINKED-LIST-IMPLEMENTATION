@@ -57,5 +57,5 @@ Nodes are dynamically created using malloc() ensuring efficient memory allocatio
 This project serves as a learning resource for beginners to understand dynamic data structures in C.
 
 ## Output:
-
+<img width="630" height="954" alt="Image" src="https://github.com/user-attachments/assets/a70509b2-d1ff-48bb-8fc6-f11fe5e26622" />
 
