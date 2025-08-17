@@ -49,6 +49,23 @@ Singly Linked Lists are a fundamental **data structure** in computer science, wi
 - **Operating System:** Windows
 
 
+## Illustrations (ASCII Diagrams)
+**Insertion Example***
+Before:
+10 -> 20 -> NULL
+Insert 15 at position 2:
+10 -> 15 -> 20 -> NULL
+
+**Deletion Example**
+Before:
+10 -> 15 -> 20 -> NULL
+Delete node at position 2:
+10 -> 20 -> NULL
+
+**Traversal Example**
+Head → 10 → 20 → 30 → NULL
+
+
 ## Summary
 The program uses a **struct Node** containing data and a pointer next.
 Nodes are dynamically created using malloc() ensuring efficient memory allocation.
@@ -58,4 +75,5 @@ This project serves as a learning resource for beginners to understand dynamic d
 
 ## Output:
 <img width="630" height="954" alt="Image" src="https://github.com/user-attachments/assets/a70509b2-d1ff-48bb-8fc6-f11fe5e26622" />
+<img width="806" height="624" alt="Image" src="https://github.com/user-attachments/assets/defd44bd-5969-4b88-8056-663cd8c491bd" />
 
