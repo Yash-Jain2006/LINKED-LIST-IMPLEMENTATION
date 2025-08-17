@@ -12,7 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
-**Project Overview**
+
+**PROJECT OVERVIEW**
 This project demonstrates the implementation of a **Linked List (LL)** in the C programming language.The program supports:
 - Insertion at the beginning, end, or at a specific position  
 - Deletion from the beginning, end, or a specific position  
@@ -21,7 +22,7 @@ This project demonstrates the implementation of a **Linked List (LL)** in the C 
 Singly Linked Lists are a fundamental **data structure** in computer science, widely used for dynamic memory allocation, stack/queue design, and efficient memory handling.
 
 
-**Features**
+**FEATURES**
 - Insert node at the **beginning** of the list
 - Insert node at the **end** of the list
 - Insert node at a **specific position**
@@ -30,7 +31,7 @@ Singly Linked Lists are a fundamental **data structure** in computer science, wi
 - Delete node from a **specific position**
 - **Traverse & Display** the entire linked list
 
-**Core Functions:**
+**CORE FUNCTIONS**
 - insertAtBeginning(int data)
 - insertAtEnd(int data)
 - insertAtPosition(int data, int pos)
@@ -40,7 +41,7 @@ Singly Linked Lists are a fundamental **data structure** in computer science, wi
 - displayList()
 
 
-**Tools & Technologies Used**
+**TOOLS AND TECHNOLIGIES USED**
 
 - **Programming Language:** C  
 - **Compiler:** GCC (GNU Compiler Collection)
@@ -50,7 +51,7 @@ Singly Linked Lists are a fundamental **data structure** in computer science, wi
 - **Operating System:** Windows
 
 
-**Illustrations (ASCII Diagrams)**
+**ILLUSTRATIONS (ASCII DIAGRAMS)**
 **Insertion Example***
 Before:
 10 -> 20 -> NULL
@@ -67,14 +68,14 @@ Delete node at position 2:
 Head → 10 → 20 → 30 → NULL
 
 
-**Summary**
+**SUMMARY**
 The program uses a **struct Node** containing data and a pointer next.
 Nodes are dynamically created using malloc() ensuring efficient memory allocation.
 **Insertion** and **Deletion** functions handle edge cases (empty list, invalid positions).
 **Traversal** prints the current list state, showing the NULL termination.
 This project serves as a learning resource for beginners to understand dynamic data structures in C.
 
-**Output:**
+**OUTPUT:**
 <img width="630" height="954" alt="Image" src="https://github.com/user-attachments/assets/a70509b2-d1ff-48bb-8fc6-f11fe5e26622" />
 <img width="806" height="624" alt="Image" src="https://github.com/user-attachments/assets/defd44bd-5969-4b88-8056-663cd8c491bd" />
 
